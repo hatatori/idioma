@@ -1,1 +1,1 @@
-#https://hatatori.github.io/idioma
+# https://hatatori.github.io/idioma
